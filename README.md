@@ -1,6 +1,6 @@
 # Projekt – Naiwny Klasyfikator Bayesowski w języku Python
 
-Michał Mikoś\
+Michał Mikoś
 
 # Wstępna analiza danych
 
@@ -12,7 +12,7 @@ jak widać na załączonym obrazku pojedyncze kolumny które mają duży wpływ 
 bruises,\
 gill-size,\
 gill-color,\
-ring-type\
+ring-type
 
 Iris:\
 Tyle samo każdego rodzaju kwiatów\
